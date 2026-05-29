@@ -325,3 +325,10 @@ VIEW:
 **Team:** Team 7  
 **Member:** Nguyễn Hồng Anh (leader), Vũ Thị Phương Anh, Nguyễn Phương Linh, Nguyễn Thị Thùy Linh
 **Dataset:** 10 tickers × 5 years (2020–2024) = 50 firm-year observations
+
+## 12 Role & Personal Contributions
+
+As a core member of the project, my direct contributions included:
+
+* **Financial Data Synthesis:** Took full ownership of collecting, validating, and synthesizing **38 financial variables** over a 5-year period for 3 major logistics and shipping tickers: `GMD`, `HAH`, and `VOS`. Ensured 100% data accuracy against audited statements.
+* **Python Development:** Developed the `export_panel.py` script to automate the extraction process. This module efficiently transforms the relational database records into a standard **Panel Data** structure, making it immediately usable for downstream statistical analysis and financial modeling.
