@@ -326,7 +326,7 @@ VIEW:
 **Member:** Nguyễn Hồng Anh (leader), Vũ Thị Phương Anh, Nguyễn Phương Linh, Nguyễn Thị Thùy Linh
 **Dataset:** 10 tickers × 5 years (2020–2024) = 50 firm-year observations
 
-## 12 Role & Personal Contributions
+## 12. Role & Personal Contributions
 
 As a core member of the project, my direct contributions included:
 
