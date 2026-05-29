@@ -1,0 +1,2 @@
+ticker,fiscal_year,rule,field_name,error_type,value,message
+PVD,2022,Rule 5,growth_ratio,OUT_OF_RANGE,-5.2115,"growth_ratio = -5.2115 is outside [-5.0, 5.0]"
