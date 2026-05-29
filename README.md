@@ -1,5 +1,4 @@
 # Firm-Data-Hub-Vietnamese-Corporate-Financial-Database
-# TEAM_7_FirmDataHub
 
 ## Firm Data Hub – Corporate Data Storage & Processing Center (2020–2024)
 
